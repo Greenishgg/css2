@@ -1,0 +1,35 @@
+.box-content{
+    padding:20px;
+}
+
+.box-content h2{
+    margin: 0;
+}
+
+.box .header-image{
+    background-image: url('kepek/days_gone.jpg');
+    height: 540px;
+    width: 960px;
+
+
+}
+
+.box.box-2 .header-image{
+    background-image: url('kepek/spiderman.jpg');
+    height:540px;
+    width:960px;
+    
+}
+
+.box.box-3 .header-image{
+    background-image: url('kepek/r6.jpg');
+    height:540px;
+    width:960px;
+    
+}
+.box{
+    max-width: 1007px;
+    padding: 20px;
+    margin: 45px auto;
+}
+
